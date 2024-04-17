@@ -1,0 +1,10 @@
+pandas
+opencv-python
+torch
+pymongo
+requests
+pillow
+tqdm
+torchvision
+PyYAML
+scipy
